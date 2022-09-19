@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(blacks.jfif);
+}
+.login{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: #fff;
+}
+.login h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffff;
+}.login p{
+    font-size: large;
+    margin: 15px 0;
+}
+.login input{
+    font-size: medium;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.login button{
+    font-size: large;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    border-radius: 5px;;
+}
+.login a{
+    color: black;
+}

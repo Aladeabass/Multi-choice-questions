@@ -1,0 +1,77 @@
+h1{
+    color: green;
+    text-align: center;
+    text-decoration: dotted;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.helo{
+    color: green;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.click{
+    font-weight: bolder;
+    font-style: italic;
+    color:black;
+    text-decoration: solid;
+    font-size: xx-large;
+}
+body{
+    background-image: url(jamb2.jfif);
+     background-size: cover;
+     background-position: initial;
+}
+h3{
+    color: green;
+    text-align: center;
+    text-decoration: dashed;
+    font-style: italic;
+}
+.jamb{
+    color: green;
+    text-align: center;
+    text-decoration: dashed;
+    font-style: italic;
+}
+.button{
+    font-weight: bolder;
+    font-style: italic;
+    color:black;
+    text-decoration: solid;
+    text-align: end;
+    font-size: xx-large;
+}
+.click a{
+    background-color: black;
+    padding: 10px 18px;
+    text-decoration: dotted;
+    font-weight: bolder;
+    color: green;
+    display: inline-block;
+    margin: 0px;
+    border-radius: 5px;
+}
+.button a{
+    background-color: black;
+    padding: 10px 18px;
+    text-decoration: dotted;
+    font-weight: bolder;
+    color: green;
+    display: inline-block;
+    margin: 0px;
+    border-radius: 5px;
+}
+marquee{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+     color: green;
+     background-color: white;
+}
+ 
+
